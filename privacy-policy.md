@@ -2,7 +2,7 @@
 
 Last updated: May 16, 2026
 
-KantaHub is a karaoke songbook and remote-control app developed by John Rei Bobis Cabuñas. This Privacy Policy explains how KantaHub handles information when you use the app on Android or iOS.
+KantaHub is a karaoke songbook app developed by John Rei Bobis Cabuñas. This Privacy Policy explains how KantaHub handles information when you use the app on Android or iOS.
 
 ## Contact
 
@@ -19,7 +19,6 @@ The current version of KantaHub may handle the following information:
 
 - App preferences stored on your device, such as whether onboarding has been completed.
 - Songbook browsing and search activity processed inside the app to show catalog results.
-- Local network and Wi-Fi connection information needed to discover or connect to compatible karaoke devices for remote-control features.
 - Basic technical network information that may be visible to a catalog server if the app is configured to fetch catalog updates, such as IP address, request time, and app request metadata normally sent by internet-connected apps.
 
 ## How We Use Information
@@ -28,7 +27,6 @@ KantaHub uses information only to provide app functionality:
 
 - To show searchable karaoke songbooks and song codes.
 - To remember simple app preferences.
-- To discover and connect to supported karaoke devices on your local network.
 - To retrieve catalog metadata or updates if a catalog backend is configured.
 - To diagnose technical problems and keep the app working reliably.
 
@@ -36,10 +34,7 @@ KantaHub uses information only to provide app functionality:
 
 KantaHub does not sell your personal information. KantaHub does not use third-party advertising SDKs, third-party analytics SDKs, or tracking technologies in the current version.
 
-KantaHub may connect to:
-
-- Karaoke devices on your local network when you use remote-control features.
-- A KantaHub catalog service, if configured, to retrieve catalog metadata or songbook updates.
+KantaHub may connect to a KantaHub catalog service, if configured, to retrieve catalog metadata or songbook updates.
 
 We do not intentionally share personal or sensitive user data with karaoke providers, advertisers, or data brokers.
 
@@ -48,11 +43,9 @@ We do not intentionally share personal or sensitive user data with karaoke provi
 KantaHub may request or use network-related permissions:
 
 - Internet access, to retrieve catalog metadata or future catalog updates.
-- Network state and Wi-Fi state, to understand whether network features are available.
-- Nearby Wi-Fi or local network access, to find and connect to compatible karaoke devices.
-- Multicast/network discovery access, to support local device discovery where available.
+- Network state, to understand whether network features are available.
 
-KantaHub uses these permissions for karaoke songbook and remote-control functionality. KantaHub does not use Wi-Fi or nearby-device permissions to determine your physical location.
+KantaHub uses these permissions for karaoke songbook functionality. KantaHub does not collect your physical location.
 
 ## Data Retention
 
